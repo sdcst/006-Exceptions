@@ -56,3 +56,5 @@ list.pop()
 list.count()
 list.index()
 list.sort()
+
+try...except...finally
